@@ -1,0 +1,10 @@
+HyperBridge System Module
+-------------------------
+
+Module Creator: Mohamed Zaitoon
+Original App Developer: D4vidDf
+Original App Repository: https://github.php/D4vidDf/HyperBridge
+
+This module installs HyperBridge as a system app using KernelSU.
+All rights to the original app remain with the original developer.
+This module does not claim ownership of the original application.
