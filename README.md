@@ -11,13 +11,21 @@ The module is designed with environment checks and integrity protection to ensur
 
 ---
 
+## Download
+
+Download the latest module ZIP from **Releases**:
+
+👉 [Download HyperBridge System Module (v1.0-alpha)](https://github.com/mohamed-zaitoon/HyperBridge-System/releases/download/v1.0-alpha/hyperbridge-system-v1.0-alpha.zip)
+
+---
+
 ## Credits & Ownership
 
 ### Original Application
 - **App Name:** HyperBridge  
 - **Original Developer:** D4vidDf  
 - **Official Repository:**  
-  https://github.com/D4vidDf/HyperBridge  
+  [HyperBridge Official Repository](https://github.com/D4vidDf/HyperBridge)
 
 All rights to the original application belong to the original developer.
 
@@ -40,18 +48,20 @@ This module is an **independent work** and does **not** modify, repackage, or re
 
 ---
 
-## ⚠️ Additional Requirement (Important)
+## ⚠️ Additional Requirement (Mountify)
 
 In some environments, installing system apps may require an additional mount helper.
 
 ### Mountify
 - **Purpose:** Advanced system mount handling for root modules  
 - **Repository:**  
-  https://github.com/backslashxx/mountify  
+  [Mountify Repository](https://github.com/backslashxx/mountify)
+
+👉 If required, install **Mountify** from the link above before installing this module.
 
 > **Note:**  
 > If the module installs successfully but the app does **not appear** after reboot,  
-> please install **Mountify** first, reboot the device, then reinstall this module.
+> install **Mountify**, reboot the device, then reinstall this module.
 
 Mountify is **not bundled** with this module and must be installed separately **only if needed**.
 
@@ -59,7 +69,7 @@ Mountify is **not bundled** with this module and must be installed separately **
 
 ## Installation
 1. Install **KernelSU**
-2. *(Optional)* Install **Mountify** if required (see note above)
+2. *(Optional)* Install **Mountify** if required
 3. Flash the module ZIP via **KernelSU**
 4. Reboot the device
 
