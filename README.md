@@ -94,7 +94,7 @@ The module author is **not responsible** for:
 
 Use at your own risk.
 
----
+----
 
 ## License & Legal Notice
 - This module does **not** change the license of the original application
