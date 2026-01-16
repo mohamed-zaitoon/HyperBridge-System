@@ -1,8 +1,9 @@
 id=hyperbridge-system
 name=HyperBridge System App
-version=1.0
+version=1.0-beta
 versionCode=1
 author=Mohamed Zaitoon (Module Creator)
 description=Install HyperBridge as system app
 url=https://github.com/D4vidDf/HyperBridge
 original_author=D4vidDf (Original App Developer)
+updateJson=https://raw.githubusercontent.com/mohamed-zaitoon/HyperBridge-System/master/update.json
