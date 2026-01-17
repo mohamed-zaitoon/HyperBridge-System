@@ -15,7 +15,7 @@ The module is designed with environment checks and integrity protection to ensur
 
 Download the latest module ZIP from **Releases**:
 
-👉 [Download HyperBridge System Module (v1.0-alpha)](https://github.com/mohamed-zaitoon/HyperBridge-System/releases/download/v1.0-beta/hyperbridge-system-v1.0-beta.zip)
+👉 [Download HyperBridge System Module (Latest)](https://github.com/mohamed-zaitoon/HyperBridge-System/releases/download/latest/hyperbridge-system.zip)
 
 ---
 
