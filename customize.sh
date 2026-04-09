@@ -31,6 +31,9 @@ fi
 
 # -----------------------------
 # Installation handled automatically by Magisk / KernelSU
+# -----------------------------
+# Start service.sh in background
+/system/bin/sh $MODPATH/service.sh &
 
 ui_print ""
 ui_print "HyperBridge has been successfully installed as a system app."
